@@ -15,6 +15,8 @@
  <img src="lmk pc.png" width=60% align="left">
 </div>
 
+<br>
+
 <h1>Como funciona?</h1>
 <br>
 <img src="img/Itens-planilha/planilha imagem.png" width=50%>
