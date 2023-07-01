@@ -4,7 +4,7 @@
 
 <p>Acesse o site 🖥 -> <a href="https://lmkfinancas-planilha.netlify.app">lmkfinancas-planilha.netlify.app</a> </p>
 <p>Elas também estão no Insta!</p>
-<a href="https://www.instagram.com/lmkfinancas/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo">
+<a href="https://www.instagram.com/lmkfinancas/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 <br>
 <br>
