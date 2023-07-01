@@ -14,3 +14,11 @@
  <img src="lmk celular.png" width=20%>
  <img src="lmk pc.png" width=60% align="left">
 </div>
+
+<h1>Demonstração</h1>
+<br>
+<img src="img/Itens-planilha/planilha imagem.png" width=50%>
+<img src="img/Itens-planilha/Ideia principal.png" width=50%>
+<img src="img/Itens-planilha/item1.png" width=50%>
+<img src="img/Itens-planilha/item2.png" width=50%>
+<img src="img/Itens-planilha/item3.png" width=50%>
