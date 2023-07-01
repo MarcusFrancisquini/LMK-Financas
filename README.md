@@ -11,8 +11,8 @@
 <h1>Preview do site</h1>
 <br>
 <div align="center">
- <img src="lmk celular.png" width=20%>
- <img src="lmk pc.png" width=60% align="left">
+ <img src="img/lmk celular.png" width=20%>
+ <img src="img/lmk pc.png" width=60% align="left">
 </div>
 
 <br>
