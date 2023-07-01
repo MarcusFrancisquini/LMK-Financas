@@ -3,7 +3,6 @@
 ## Planilha automática no Excel
 
 <p>Acesse o site 🖥 -> <a href="https://lmkfinancas-planilha.netlify.app">lmkfinancas-planilha.netlify.app</a> </p>
-<p>Elas também estão no Insta!</p>
 <a href="https://www.instagram.com/lmkfinancas/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 <br>
