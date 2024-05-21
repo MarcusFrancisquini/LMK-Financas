@@ -1,10 +1,12 @@
 <img src="img/main/LMK logo.png" width=20% align="left">
 
-## Planilha automática no Excel
+**_Planilha automática no Excel_**
 
 <p>Acesse o site 🖥 -> <a href="https://lmkfinancas-planilha.netlify.app">lmkfinancas-planilha.netlify.app</a> </p>
 <a href="https://www.instagram.com/lmkfinancas/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
+<br>
+<br>
 <br>
 <br>
 
