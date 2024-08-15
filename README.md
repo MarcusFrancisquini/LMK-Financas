@@ -10,7 +10,7 @@
 <br>
 <br>
 
-<h1>Preview do site</h1>
+<h1>Preview da página</h1>
 <br>
 <div align="center">
  <img src="img/lmk celular.png" width=20%>
