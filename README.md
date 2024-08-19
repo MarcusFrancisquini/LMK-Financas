@@ -9,7 +9,6 @@
 <br>
 <br>
 <br>
-<br>
 
 <p align="justify">Em parceria com a LMK Finanças, desenvolvi essa página web utilizado HTML, CSS e JavaScript para que elas pudessem apresentar seu Trabalho de conclusão de curso e garantir seu diploma. Foi meu primeiro serviço como desenvolvedor Front-end e aprendi bastante com a oportunidade.</p> 
 
