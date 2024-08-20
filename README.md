@@ -23,8 +23,5 @@
 
 <h1>Como funciona ?</h1>
 <br>
-<img src="img/Itens-planilha/planilha imagem.png" width=50%>
-<img src="img/Itens-planilha/Ideia principal.png" width=50%>
-<img src="img/Itens-planilha/item1.png" width=50%>
-<img src="img/Itens-planilha/item2.png" width=50%>
-<img src="img/Itens-planilha/item3.png" width=50%>
+<img src="img/Itens-planilha/imagem02.png">
+<img src="img/Itens-planilha/imagem01.png">
